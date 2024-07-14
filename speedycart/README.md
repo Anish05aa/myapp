@@ -1,2 +1,0 @@
-# explosive
- a tech app
